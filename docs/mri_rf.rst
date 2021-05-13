@@ -15,6 +15,7 @@ Adiabatic Pulse Design Functions
     sigpy.mri.rf.adiabatic.wurst
     sigpy.mri.rf.adiabatic.goia_wurst
     sigpy.mri.rf.adiabatic.bloch_siegert_fm
+    sigpy.mri.rf.adiabatic.hypsec_n
 
 B1-Selective Pulse Design Functions
 -----------------------------------

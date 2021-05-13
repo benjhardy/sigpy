@@ -1,3 +1,4 @@
+#!/bin/bash
 set -e
 rm -rf docs/generated/
 coverage run -m unittest
